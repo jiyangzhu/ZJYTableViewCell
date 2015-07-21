@@ -64,7 +64,7 @@ A simple cell, including a title label, an optional remind text and an optional 
 
 <p align="center" >
 <br/>
-<img src="https://raw.githubusercontent.com/bryester/ZJYTableViewCell/master/img/default-style.png" alt="Overview" />
+<img src="https://raw.githubusercontent.com/bryester/ZJYTableViewCell/master/img/default-style.png" alt=“default style” width=“400” />
 <br/>
 </p>
 
